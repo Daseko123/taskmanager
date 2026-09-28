@@ -1,0 +1,7 @@
+C:\Users\s5vasa12\source\repos\Taskmanager2\Taskmanager2\obj\Debug\net8.0-windows\TaskManager.Form1.resources
+C:\Users\s5vasa12\source\repos\Taskmanager2\Taskmanager2\obj\Debug\net8.0-windows\TaskManager.SettingsForm.resources
+C:\Users\s5vasa12\source\repos\Taskmanager2\Taskmanager2\obj\Debug\net8.0-windows\Taskmanager2.csproj.GenerateResource.cache
+C:\Users\s5vasa12\source\repos\Taskmanager2\Taskmanager2\obj\Debug\net8.0-windows\Taskmanager2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s5vasa12\source\repos\Taskmanager2\Taskmanager2\obj\Debug\net8.0-windows\Taskmanager2.AssemblyInfoInputs.cache
+C:\Users\s5vasa12\source\repos\Taskmanager2\Taskmanager2\obj\Debug\net8.0-windows\Taskmanager2.AssemblyInfo.cs
+C:\Users\s5vasa12\source\repos\Taskmanager2\Taskmanager2\obj\Debug\net8.0-windows\Taskmanager2.csproj.CoreCompileInputs.cache
